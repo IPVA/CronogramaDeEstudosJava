@@ -1,4 +1,6 @@
-Lidar com erros e exceções é uma parte crucial do desenvolvimento de software. Nesta fase, exploraremos as diferentes formas de capturar e tratar exceções em Java.
+Lidar com erros e exceções é uma parte crucial do desenvolvimento de software. 
+
+Nesta fase, exploraremos as diferentes formas de capturar e tratar exceções em Java.
 
 Veremos como usar try, catch, finally e como lançar exceções personalizadas.
 
